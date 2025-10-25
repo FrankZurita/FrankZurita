@@ -1,38 +1,32 @@
-👋Hola mi nombre es Francisco Javier soy estudiante de Ingeniería en Sistemas Computacionales apasionado por el 
+👋Hola soy Francisco Javier Zurita Rivera, soy estudiante de Ingeniería en Sistemas Computacionales apasionado por el 
                                    desarrollo web y la innovación tecnológica.
 
-                                   Soy *[Tu Nombre Completo]*, [Tu Ocupación o Título, ej: estudiante de Ingeniería de Software / desarrollador Front-end]. 
+                                  
 
-[Una frase corta sobre ti, ej: Soy parte de algunas comunidades tecnológicas y disfruto explorando nuevas herramientas y tecnologías para mejorar mis habilidades. / Me apasiona crear soluciones web escalables y eficientes.]
+[Soy un explorador del conocimiento, no me detengo a esperar el momento perfecto, investigo,pruebo,fallo y vuelvo a crear. La curiosidad es mi motor y la accion, mi lenguaje.]
 
----
 
-## 🛠️ Lenguajes y Herramientas
+🛠️ Lenguajes y Herramientas 🛠️
 
 Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que utilizo:
 
-<p align="center">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="github" width="40" height="40"/>
-  </a> 
-</p>
+<div align="center">
 
----
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+</a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+</a>
+<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Apache NetBeans" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+</a>
+
+</div>
+
 
 ## 🚀 Estadísticas de GitHub
 
