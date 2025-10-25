@@ -25,9 +25,9 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 </a>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40">
-<a href="https://krita.org/" target="_blank" rel="noreferrer">
+
  <img src="https://krita.org/wp-content/uploads/2020/05/krita-logo.png" width="40" height="40">
-</a>
+
 
 
 </div>
