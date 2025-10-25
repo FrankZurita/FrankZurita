@@ -28,7 +28,7 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40">
 </a>
 <a>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/krita.svg" width="40" height="40"> 
+img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/krita.svg" width="20" height="20" style="filter: invert(100%);">
 </a>
 
 
