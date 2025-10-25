@@ -43,7 +43,7 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
 Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y contribuciones:
 
 <p align="center"> 
-a href="https://github.com/FrankZurita">
+<a>
   <img src="https://github-profile-trophy.vercel.app/?username=FrankZurita&theme=discord&no-bg=true&no-frame=true&title=Commits,Repositories,PullRequest&margin-w=15&margin-h=15" alt="Trophies de FrankZurita"/>
 </a>
 </p>
