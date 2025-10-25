@@ -63,7 +63,7 @@ Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y
 Si deseas comunicarte conmigo o conocer más sobre mi trabajo, puedes encontrarme en las siguientes plataformas:
 
 - *LinkedIn*: https://www.linkedin.com/in/francisco-javier-zurita-rivera-babaa8322/
-- - *Correo Electrónico*: samsummexico@gmail.com
+- *Correo Electrónico*: samsummexico@gmail.com
 - *Instagram*: actualizar mas adelante
 
 <br>
