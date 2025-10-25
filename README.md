@@ -24,7 +24,9 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 </a>
+<a>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40">
+</a>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/krita.svg" width="40" height="40"> 
 
 
