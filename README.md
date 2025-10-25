@@ -28,21 +28,26 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
 </div>
 
 
-## 🚀 Estadísticas de GitHub
+🚀 Estadísticas de GitHub
+
+### 📊 Estadísticas de mi perfil de GitHub
 
 Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y contribuciones:
 
 <p align="center"> 
-  <a href="https://github.com/[Tu-Usuario-GitHub]"><img src="https://github-profile-trophy.vercel.app/?username=[Tu-Usuario-GitHub]&theme=discord&column=-1" alt="[Tu-Usuario-GitHub]"/></a> 
+  <a href="https://github.com/FranKZurita">
+    <img src="https://github-profile-trophy.vercel.app/?username=FrankZurita&theme=discord&column=-1" alt="Trophies de FrankZurita"/>
+  </a> 
 </p>
 
 <div align="center">
-  <a href="https://github.com/[Tu-Usuario-GitHub]">
-        <img height="100em" src="https://github-readme-stats.vercel.app/api?username=[Tu-Usuario-GitHub]&count_private=false&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-        <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Tu-Usuario-GitHub]&theme=tokyonight&hide_border=false&&layout=compact"/>
-        <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=[Tu-Usuario-GitHub]&theme=tokyonight&hide_border=false&&layout=compact" alt="[Tu-Usuario-GitHub]"/>
-  </a>  
+  <a href="https://github.com/FrankZurita">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FrankZurita&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=false&layout=compact"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight&hide_border=false" alt="Racha de contribuciones"/>
+  </a>  
 </div>
+
 
 ---
 
