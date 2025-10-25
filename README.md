@@ -53,9 +53,8 @@ Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y
 
 ## 🏆 Roles y Certificaciones
 
-- [Tu Rol en una Comunidad, ej: Beta en Microsoft Learn Student Ambassador]
-- [Tu Certificación o Rol, ej: GitHub Campus Expert]
-- [Otro Rol/Certificación]
+- [En Proceso actualizar mas adelante]
+
 
 ---
 
@@ -63,10 +62,9 @@ Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y
 
 Si deseas comunicarte conmigo o conocer más sobre mi trabajo, puedes encontrarme en las siguientes plataformas:
 
-- *LinkedIn*: [Enlace a mi perfil de LinkedIn]([Tu Enlace de LinkedIn])
-- *Correo Electrónico*: [Tu Correo Electrónico]
-- *Instagram*: [Enlace a mi perfil de Instagram]([Tu Enlace de Instagram])
-- *[Otra Plataforma, ej: Twitter]*: [Enlace a tu perfil de [Plataforma]]
+- *LinkedIn*: https://www.linkedin.com/in/francisco-javier-zurita-rivera-babaa8322/
+- - *Correo Electrónico*: samsummexico@gmail.com
+- *Instagram*: actualizar mas adelante
 
 <br>
 
