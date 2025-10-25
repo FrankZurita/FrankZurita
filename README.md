@@ -1,4 +1,5 @@
-## Hi there 👋
+👋Hola mi nombre es Francisco Javier soy estudiante de Ingeniería en Sistemas Computacionales apasionado por el 
+                                   desarrollo web y la innovación tecnológica.
 
 <!--
 **FrankZurita/FrankZurita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
