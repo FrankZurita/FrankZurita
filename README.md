@@ -3,7 +3,7 @@
 
                                   
 
-[Soy un explorador del conocimiento, no me detengo a esperar el momento perfecto, investigo,pruebo,fallo y vuelvo a crear. La curiosidad es mi motor y la accion, mi lenguaje.]
+Soy un explorador del conocimiento, no me detengo a esperar el momento perfecto, investigo,pruebo,fallo y vuelvo a crear. La curiosidad es mi motor y la accion, mi lenguaje.
 
 
 🛠️ Lenguajes y Herramientas 🛠️
