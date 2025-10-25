@@ -28,7 +28,7 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40">
 </a>
 <a>
-<img src="https://krita.org/wp-content/uploads/2020/05/krita-logo.png" width="20" height="20" style="border: 2px solid white; border-radius: 4px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Krita-logo.svg" width="20" height="20" style="background: white; padding: 2px; border-radius: 3px;">
 </a>
 
 
