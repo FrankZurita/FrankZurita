@@ -25,7 +25,7 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 </a>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40">
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/krita.svg" width="40" height="40"> 
 
 
 
