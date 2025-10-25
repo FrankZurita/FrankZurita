@@ -24,6 +24,13 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 </a>
+<a href="https://github.com" target="_blank" rel="noreferrer">
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="40" height="40"/>
+</a>
+<a href="https://krita.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Krita_Logo.png" alt="Krita" width="40" height="40"/>
+</a>
+
 
 </div>
 
