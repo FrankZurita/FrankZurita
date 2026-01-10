@@ -27,9 +27,16 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
 <a>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40">
 </a>
-<a>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/krita.svg" width="40" height="40" style="background: white; padding: 5px; border-radius: 6px;">
+<a href="https://krita.org" target="_blank" rel="noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/krita.svg"
+    alt="Krita"
+    width="40"
+    height="40"
+    style="fill:#3BABFF; background:white; padding:5px; border-radius:6px;"
+  >
 </a>
+
 <a href="https://openai.com" target="_blank" rel="noreferrer">
   <img 
     src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg"
