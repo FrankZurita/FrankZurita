@@ -32,8 +32,14 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
 </a>
 <a href="https://openai.com" target="_blank" rel="noreferrer">
   <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="OpenAI" width="40"height="40"style="fill:#412991;"/>
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg"
+    alt="OpenAI"
+    width="40"
+    height="40"
+    style="fill:#412991;"
+  />
 </a>
+
 
 
 
