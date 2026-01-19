@@ -53,15 +53,13 @@ Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y
   <img src="https://github-profile-trophy.vercel.app/?username=FrankZurita&theme=discord" alt="Trophies de FrankZurita"/>
 </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-★★★★☆-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</p>
 <div align="center">
   <a href="https://github.com/FrankZurita">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FrankZurita&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=false&layout=compact"/>
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight&hide_border=false" alt="Racha de contribuciones"/>
-    
+    <img src="https://img.shields.io/badge/Kotlin-Intermedio-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
   </a>  
 </div>
 
