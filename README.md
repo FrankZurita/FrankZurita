@@ -48,19 +48,14 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
 
 Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y contribuciones:
 
-<p align="center"> 
-<a href="https://github.com/FrankZurita">
-  <img src="https://github-profile-trophy.vercel.app/?username=FrankZurita&theme=discord&rank=-1" alt="Trophies de FrankZurita"/>
-</a>
-</p>
-
 <div align="center">
-  <a href="https://github.com/FrankZurita">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FrankZurita&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true&cache_seconds=1800"/>
-    
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=false&layout=compact&hide=html,css,javascript,scss,blade,php&langs_count=6&size_weight=0.5&count_weight=0.5&cache_seconds=1800"/>
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="Racha de contribuciones"/>
-  </a>  
+  
+  ![Estadísticas de Frank](https://github-readme-stats.vercel.app/api?username=FrankZurita&show_icons=true&theme=tokyonight&include_all_commits=true)
+  
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&layout=compact&theme=tokyonight&hide=html,css,javascript,blade,scss&langs_count=6)
+  
+  ![Racha](https://streak-stats.demolab.com/?user=FrankZurita&theme=tokyonight)
+  
 </div>
 
 ## 🏆 Roles y Certificaciones
