@@ -11,15 +11,18 @@ Me gusta aprender construyendo: investigo, pruebo, me equivoco y mejoro. Creo fi
 🧠 Mejorando lógica, estructuras y buenas prácticas <br>
 🚀 Construyendo proyectos pequeños pero funcionales, con visión de escalarlos <br>
 
-
+ <br>
+ <br>
 💻 Lenguajes de Programación
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> </div>
-
+ <br>
+  <br>
 
 
 🛠️ Herramientas y Entornos
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="45" height="45"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="OpenAI" width="45" height="45"/> </div>
-
+ <br>
+  <br>
 
 
 🚀 Estadísticas de GitHub
@@ -35,7 +38,8 @@ Me gusta aprender construyendo: investigo, pruebo, me equivoco y mejoro. Creo fi
 
 </a> </div>
 
-
+ <br>
+  <br>
 
 📚 Formación y Aprendizaje Continuo
 
@@ -44,13 +48,15 @@ Aprendiendo desarrollo Android moderno con Kotlin
 Explorando buenas prácticas de diseño y arquitectura
 Interés a mediano plazo en bases de datos, Big Data y ciberseguridad
 
-
+ <br>
+  <br>
 
 📬 Contacto
 💼 LinkedIn: https://www.linkedin.com/in/francisco-javier-zurita-rivera-babaa8322/
 📧 Correo: samsummexico@gmail.com
 
-
+ <br>
+  <br>
 
 🌱 Nota final
 Este perfil está en constante evolución. Cada repositorio representa aprendizaje real, no solo código.
