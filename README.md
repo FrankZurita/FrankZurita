@@ -50,7 +50,7 @@ Interés a mediano plazo en bases de datos, Big Data y ciberseguridad
 
 
 
-📬 Contacto
+📬 Contacto <br>
 💼 LinkedIn: https://www.linkedin.com/in/francisco-javier-zurita-rivera-babaa8322/  <br>
 📧 Correo: samsummexico@gmail.com
 
