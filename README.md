@@ -16,8 +16,10 @@ Me gusta aprender construyendo: investigo, pruebo, me equivoco y mejoro. Creo fi
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> </div>
 
 
+
 🛠️ Herramientas y Entornos
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="45" height="45"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="OpenAI" width="45" height="45"/> </div>
+
 
 
 🚀 Estadísticas de GitHub
@@ -34,6 +36,7 @@ Me gusta aprender construyendo: investigo, pruebo, me equivoco y mejoro. Creo fi
 </a> </div>
 
 
+
 📚 Formación y Aprendizaje Continuo
 
 Estudiante activo de Ingeniería en Sistemas Computacionales
@@ -42,9 +45,11 @@ Explorando buenas prácticas de diseño y arquitectura
 Interés a mediano plazo en bases de datos, Big Data y ciberseguridad
 
 
+
 📬 Contacto
 💼 LinkedIn: https://www.linkedin.com/in/francisco-javier-zurita-rivera-babaa8322/
 📧 Correo: samsummexico@gmail.com
+
 
 
 🌱 Nota final
