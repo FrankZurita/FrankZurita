@@ -60,6 +60,7 @@ Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=false&layout=compact"/>
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight&hide_border=false" alt="Racha de contribuciones"/>
   </a>  
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </div>
 
 ## 🏆 Roles y Certificaciones
