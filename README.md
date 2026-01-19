@@ -48,11 +48,10 @@ Aprendiendo desarrollo Android moderno con Kotlin
 Explorando buenas prácticas de diseño y arquitectura
 Interés a mediano plazo en bases de datos, Big Data y ciberseguridad
 
- <br>
-  <br>
+
 
 📬 Contacto
-💼 LinkedIn: https://www.linkedin.com/in/francisco-javier-zurita-rivera-babaa8322/
+💼 LinkedIn: https://www.linkedin.com/in/francisco-javier-zurita-rivera-babaa8322/  <br>
 📧 Correo: samsummexico@gmail.com
 
  <br>
