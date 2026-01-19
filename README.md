@@ -57,13 +57,15 @@ Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y
 <div align="center">
   <a href="https://github.com/FrankZurita">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FrankZurita&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=false&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=false&layout=compact&hide=html,css,javascript,python"/>
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight&hide_border=false" alt="Racha de contribuciones"/>
   </a>  
 </div>
 
-
----
+### 🚀 Especialización en Android (Kotlin/Java)
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&layout=compact&theme=tokyonight&langs_count=3&hide=html,css,javascript,python,ruby,swift"/>
+</div>
 
 ## 🏆 Roles y Certificaciones
 
