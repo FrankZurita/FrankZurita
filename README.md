@@ -37,10 +37,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en desarroll
 
 </a> </div>
 
-<!-- Esto INCLUYE repositorios privados -->
-<img height="150em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&layout=compact&count_private=true"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
  <br>
   <br>
 
