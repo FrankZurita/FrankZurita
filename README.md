@@ -35,8 +35,6 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en desarroll
 
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=FrankZurita&theme=tokyonight"/>
-
 </a> </div>
 
  <br>
