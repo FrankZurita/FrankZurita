@@ -26,19 +26,6 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en desarroll
   <br>
 
 
-🚀 Estadísticas de GitHub
-<p align="center"> <a href="https://github.com/FrankZurita"> <img src="https://github-profile-trophy.vercel.app/?username=FrankZurita&theme=discord" alt="Trophies de FrankZurita"/> </a> </p> <div align="center"> <a href="https://github.com/FrankZurita">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=FrankZurita&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight"/>
-</a> </div>
-
-<td width="80%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
- <br>
-  <br>
-
   <h2 align="center">🚀 Estadísticas de GitHub</h2>
 
 <p align="center">
