@@ -1,8 +1,8 @@
 👋 Hola, soy Francisco Javier Zurita Rivera
 
 Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en desarrollo de software, con especial interés en desarrollo web y desarrollo Android con Kotlin. <br> 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-Me gusta aprender construyendo: investigo, pruebo, me equivoco y mejoro. Creo firmemente que el progreso en tecnología no es instantáneo, sino acumulativo, y cada proyecto es un paso más hacia soluciones mejor diseñadas y más eficientes.
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> <br> 
+
 
 
 🧭 En qué estoy enfocado actualmente (2025 → 2026)
