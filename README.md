@@ -14,8 +14,7 @@
 
 🧭 En qué estoy enfocado actualmente (2025 → 2026)
 
-📱 Desarrollo Android usando Kotlin y XML <br>
-🌐 Fortaleciendo bases de desarrollo web <br>
+📱 Desarrollo Movil y Web <br>
 🧠 Mejorando lógica, estructuras y buenas prácticas <br>
 🚀 Construyendo proyectos pequeños pero funcionales
 
@@ -78,15 +77,6 @@
 <br>
 
 ---
-
- 📚 Formación y Aprendizaje Continuo
-
-Estudiante activo de **Ingeniería en Sistemas Computacionales** <br>
-Aprendiendo desarrollo Android moderno con **Kotlin** <br>
-Explorando buenas prácticas de diseño y arquitectura <br>
-Interés en bases de datos, Big Data y ciberseguridad
-
-<br>
 
  📬 Contacto
 
