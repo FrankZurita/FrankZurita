@@ -33,22 +33,12 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en desarroll
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight"/>
 </a> </div>
 
-<td width="50%" align="center">
+<td width="80%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
  <br>
   <br>
   
-  <br><br>
-  
-  <!-- LENGUAJES MÁS USADOS -->
-  <h3>💻 Top Languages</h3>
-  <img height="180" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=500"
-       width="85%"/>
-  
-</div>
-<!-- FIN ESTADÍSTICAS -->
 
 📚 Formación y Aprendizaje Continuo
 
