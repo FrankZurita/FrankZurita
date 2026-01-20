@@ -37,7 +37,12 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en desarroll
 
 </a> </div>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
  <br>
   <br>
 
