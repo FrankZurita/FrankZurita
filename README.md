@@ -39,6 +39,34 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en desarroll
  <br>
   <br>
 
+  <!-- 🚀 Estadísticas de GitHub -->
+<h2 align="center">🚀 GitHub Statistics</h2>
+
+<!-- Trofeos de GitHub -->
+<p align="center">
+  <a href="https://github.com/FrankZurita">
+    <img src="https://github-profile-trophy.vercel.app/?username=FrankZurita&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="Trophies de FrankZurita"/>
+  </a>
+</p>
+
+<!-- Stats Principales en Línea -->
+<div align="center">
+  <a href="https://github.com/FrankZurita">
+    <!-- Stats Card -->
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FrankZurita&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&card_width=400"/>
+    
+    <!-- Streak Stats -->
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight&hide_border=true&card_width=400"/>
+  </a>
+</div>
+
+<!-- Lenguajes Más Usados (Centrado) -->
+<br>
+<div align="center">
+  <h3>💻 Most Used Languages</h3>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=500&hide_title=false"/>
+</div>
+
 📚 Formación y Aprendizaje Continuo
 
 Estudiante activo de Ingeniería en Sistemas Computacionales
