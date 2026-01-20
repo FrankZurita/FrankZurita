@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Estudiante de Ingeniería en Sistemas Computacionales</strong><br>
-  Enfocado en el desarrollo de software, con especial interés en <b>Desarrollo Web</b> y <b>Android con Kotlin</b>.
+  Enfocado en el Desarrollo Movil y Web <br>.
 </p>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coding GIF">
