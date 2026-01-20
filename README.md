@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Francisco Javier Zurita Rivera
+👋 Hola, soy Francisco Javier Zurita Rivera
 
 <p align="center">
   <strong>Estudiante de Ingeniería en Sistemas Computacionales</strong><br>
@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## 🧭 En qué estoy enfocado actualmente (2025 → 2026)
+🧭 En qué estoy enfocado actualmente (2025 → 2026)
 
 📱 Desarrollo Android usando Kotlin y XML <br>
 🌐 Fortaleciendo bases de desarrollo web <br>
@@ -23,7 +23,7 @@
 
 ---
 
-## 💻 Lenguajes de Programación
+💻 Lenguajes de Programación
 
 <br>
 
@@ -38,7 +38,7 @@
 
 <br>
 
-## 🛠️ Herramientas y Entornos
+🛠️ Herramientas y Entornos
 
 <br>
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 🚀 Estadísticas de GitHub
+ 🚀 Estadísticas de GitHub
 
 <p align="center">
   <a href="https://github.com/FrankZurita">
@@ -79,7 +79,7 @@
 
 ---
 
-## 📚 Formación y Aprendizaje Continuo
+ 📚 Formación y Aprendizaje Continuo
 
 Estudiante activo de **Ingeniería en Sistemas Computacionales** <br>
 Aprendiendo desarrollo Android moderno con **Kotlin** <br>
@@ -88,14 +88,14 @@ Interés en bases de datos, Big Data y ciberseguridad
 
 <br>
 
-## 📬 Contacto
+ 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-zurita-rivera-babaa8322/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsummexico@gmail.com)
 
 <br>
 
-### 🌱 Nota final
+ 🌱 Nota final
 *Este perfil está en constante evolución. Cada repositorio representa aprendizaje real, no solo código. Si algo aquí te interesa o crees que podemos construir algo juntos, será un gusto conectar.*
 
 </div>
