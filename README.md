@@ -31,7 +31,6 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en desarroll
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FrankZurita&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&layout=compact"/>
 
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight"/>
 
@@ -39,7 +38,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en desarroll
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrankZurita&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
  <br>
