@@ -40,31 +40,65 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, enfocado en desarroll
   <br>
 
   <!-- 🚀 Estadísticas de GitHub -->
-<h2 align="center">🚀 GitHub Statistics</h2>
-
-<!-- Trofeos de GitHub -->
-<p align="center">
-  <a href="https://github.com/FrankZurita">
-    <img src="https://github-profile-trophy.vercel.app/?username=FrankZurita&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="Trophies de FrankZurita"/>
-  </a>
-</p>
-
-<!-- Stats Principales en Línea -->
+<!-- 🌟 GITHUB STATISTICS -->
 <div align="center">
-  <a href="https://github.com/FrankZurita">
-    <!-- Stats Card -->
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FrankZurita&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&card_width=400"/>
+  
+  <!-- Título Principal -->
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+    GitHub Statistics
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  </h2>
+  
+  <!-- Trofeos -->
+  <p align="center">
+    <a href="https://github.com/FrankZurita">
+      <img src="https://github-profile-trophy.vercel.app/?username=FrankZurita&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" 
+           alt="FrankZurita's Trophies" 
+           title="Mis Logros en GitHub"/>
+    </a>
+  </p>
+
+  <!-- Contenedor Principal de Stats -->
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     
-    <!-- Streak Stats -->
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight&hide_border=true&card_width=400"/>
-  </a>
-</div>
-
-<!-- Lenguajes Más Usados (Centrado) -->
-<br>
-<div align="center">
-  <h3>💻 Most Used Languages</h3>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=500&hide_title=false"/>
+    <!-- Card 1: General Stats -->
+    <div>
+      <img height="170em" 
+           src="https://github-readme-stats.vercel.app/api?username=FrankZurita&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
+           alt="Frank's GitHub Stats"
+           title="Estadísticas Generales"/>
+    </div>
+    
+    <!-- Card 2: Streak Stats -->
+    <div>
+      <img height="170em" 
+           src="https://github-readme-streak-stats.herokuapp.com/?user=FrankZurita&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"
+           alt="Frank's GitHub Streak"
+           title="Racha de Contribuciones"/>
+    </div>
+    
+  </div>
+  
+  <!-- Lenguajes (debajo, centrado) -->
+  <br><br>
+  
+  <h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="25"> 
+    Top Programming Languages
+    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="25">
+  </h3>
+  
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=550"
+       alt="Frank's Most Used Languages"
+       title="Lenguajes Más Utilizados"/>
+  
+  <br><br>
+  
+  <!-- Nota pequeña -->
+  <p><i>Nota: Las estadísticas se actualizan automáticamente</i></p>
+  
 </div>
 
 📚 Formación y Aprendizaje Continuo
