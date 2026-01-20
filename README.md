@@ -69,11 +69,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/FrankZurita">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankZurita&layout=compact&theme=tokyonight" />
-  </a>
-</p>
 
 <br>
 
