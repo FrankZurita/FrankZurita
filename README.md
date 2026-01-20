@@ -4,20 +4,13 @@
 
 <p align="center">
   <strong>Estudiante de Ingeniería en Sistemas Computacionales</strong><br>
-  Enfocado en el Desarrollo Movil y Web <br>.
+  Enfocado en el Desarrollo Movil y Web <br>
+  Construyendo proyectos pequeños pero funcionales <br>
 </p>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coding GIF">
 
 <br>
-<br>
-
-🧭 En qué estoy enfocado actualmente (2025 → 2026)
-
-📱 Desarrollo Movil y Web <br>
-🧠 Mejorando lógica, estructuras y buenas prácticas <br>
-🚀 Construyendo proyectos pequeños pero funcionales
-
 <br>
 
 ---
