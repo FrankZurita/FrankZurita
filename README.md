@@ -55,7 +55,7 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="OpenAI" width="45" height="45"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="45" height="45"/></td>
 <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45"/></td>
-<td align="center"><img src="https://www.svgrepo.com/show/354656/microsoft-office.svg" alt="Microsoft 365" width="45" height="45"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Microsoft 365" width="45" height="45"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/></td>
 <td align="center"><img src="https://www.svgrepo.com/show/374144/claude.svg" alt="Claude IA" width="45" height="45"/></td>
   
