@@ -1,11 +1,11 @@
 <div align="center">
 
-👋 Hola, soy Francisco Javier Zurita Rivera
+<h1 align="center">👋 Hola, soy Francisco Javier Zurita Rivera (FrankZurita)</h1>
 
 <p align="center">
   <strong>Estudiante de Ingeniería en Sistemas Computacionales</strong><br>
-  Enfocado en el Desarrollo Movil y Web <br>
-  Construyendo proyectos pequeños pero funcionales <br>
+  Apasionado por la tecnología, el desarrollo de software y la innovación digital<br>
+  Construyendo soluciones prácticas y proyectos funcionales mientras sigo aprendiendo<br>
 </p>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coding GIF">
