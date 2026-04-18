@@ -17,21 +17,31 @@
 
 <div align="center">
 
-<div align="center">
+<h1>👋 Hola, soy FrankZurita</h1>
 
-<div align="center">
+<p>
+  <strong>Estudiante de Ingeniería en Sistemas Computacionales</strong><br>
+  Apasionado por la tecnología, el desarrollo de software y la innovación digital<br>
+  Enfocado en construir soluciones prácticas y mejorar constantemente mis habilidades
+</p>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coding GIF">
+
+</div>
+
+---
 
 ## 💻 Lenguajes de Programación
 
-<table>
+<table align="center">
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL " width="40" height="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></td>
 </tr>
 <tr>
 <td align="center"><small>Kotlin</small></td>
@@ -44,21 +54,22 @@
 </tr>
 </table>
 
+---
+
 ## 🛠️ Herramientas y Entornos
 
-<table>
+<table align="center">
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="OpenAI" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/></td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Microsoft 365" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></td>
-<td align="center"><img src="https://cdn.simpleicons.org/anthropic" alt="Claude IA" width="40" height="40"/></td>
-  
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/></td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/anthropic" width="40"/></td>
+</tr>
 <tr>
 <td align="center"><small>Android Studio</small></td>
 <td align="center"><small>VS Code</small></td>
@@ -66,15 +77,11 @@
 <td align="center"><small>GitHub</small></td>
 <td align="center"><small>OpenAI</small></td>
 <td align="center"><small>Canva</small></td>
-<td align="center"><small>Power Bi</small></td>
-<td align="center"><small>Microsoft 365</small></td>
+<td align="center"><small>Power BI</small></td>
 <td align="center"><small>PostgreSQL</small></td>
 <td align="center"><small>Claude IA</small></td>
 </tr>
 </table>
-
-</div>
-
 ---
 
  🚀 Estadísticas de GitHub
