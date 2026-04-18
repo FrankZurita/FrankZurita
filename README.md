@@ -40,7 +40,7 @@
 <td align="center"><small>HTML</small></td>
 <td align="center"><small>CSS</small></td>
 <td align="center"><small>JavaScript</small></td>
-<td align="center"><small>SQL Workbench</small></td>
+<td align="center"><small>SQL</small></td>
 </tr>
 </table>
 
