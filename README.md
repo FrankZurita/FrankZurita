@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">👋 Hola, soy Francisco Javier Zurita Rivera (FrankZurita)</h1>
+<h1 align="center">👋 Hola, soy (FrankZurita)</h1>
 
 <p align="center">
   <strong>Estudiante de Ingeniería en Sistemas Computacionales</strong><br>
