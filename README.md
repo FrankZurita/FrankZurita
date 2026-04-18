@@ -40,6 +40,7 @@
 <td align="center"><small>HTML</small></td>
 <td align="center"><small>CSS</small></td>
 <td align="center"><small>JavaScript</small></td>
+<td align="center"><small>SQL Workbench</small></td>
 </tr>
 </table>
 
@@ -53,6 +54,7 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="OpenAI" width="45" height="45"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="45" height="45"/></td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45"/></td>
 </tr>
 <tr>
 <td align="center"><small>Android Studio</small></td>
@@ -61,6 +63,7 @@
 <td align="center"><small>GitHub</small></td>
 <td align="center"><small>OpenAI</small></td>
 <td align="center"><small>Canva</small></td>
+<td align="center"><small>Power Bi</small></td>
 </tr>
 </table>
 
