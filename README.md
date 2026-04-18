@@ -69,6 +69,8 @@
 <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></td>
 <td align="center"><img src="https://cdn.simpleicons.org/anthropic" width="40"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/microsoft" width="40"/></td>
+  
 </tr>
 <tr>
 <td align="center"><small>Android Studio</small></td>
