@@ -1,22 +1,5 @@
 <div align="center">
 
-<h1 align="center">👋 Hola, soy (FrankZurita)</h1>
-
-<p align="center">
-  <strong>Estudiante de Ingeniería en Sistemas Computacionales</strong><br>
-  Apasionado por la tecnología, el desarrollo de software y la innovación digital<br>
-  Construyendo soluciones prácticas y proyectos funcionales mientras sigo aprendiendo<br>
-</p>
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coding GIF">
-
-<br>
-<br>
-
----
-
-<div align="center">
-
 <h1>👋 Hola, soy FrankZurita</h1>
 
 <p>
@@ -69,7 +52,6 @@
 <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></td>
 <td align="center"><img src="https://cdn.simpleicons.org/anthropic" width="40"/></td>
-<td align="center"><img src="https://cdn.simpleicons.org/microsoft" width="40"/></td>
   
 </tr>
 <tr>
