@@ -57,7 +57,7 @@
 <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Microsoft 365" width="45" height="45"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Claude IA" width="45" height="45"/></td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Claude_AI_logo.svg" alt="Claude IA" width="45" height="45"/></td>
   
 <tr>
 <td align="center"><small>Android Studio</small></td>
